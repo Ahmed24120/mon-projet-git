@@ -1,3 +1,3 @@
 function fonctionpourecrire(){
-    let message=document.getElementById("message").innerHTML="$e 9amzu lash";
+    let message=document.getElementById("message").innerHTML="$4e 9amzu lash";
 }
